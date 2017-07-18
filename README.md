@@ -17,8 +17,9 @@ npm run build
 ```
 
 ## 访问路径
+[本地预览](https://zhaipanyu.github.io/vue-project/dist/)
 
-[http://vue.fecss.com/mi/](http://vue.fecss.com/mi/)
+[官方预览](http://vue.fecss.com/mi/)
 
 ## 建议
 > 这个项目只是一个vue的练手项目。并没有引用一些比较好的vue.js的特性，比如vue-router或vuex。
